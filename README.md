@@ -120,7 +120,7 @@
 
 <br>
 
-<a href="https://github.com/Akashmishra1421/Automatic-Music-Genration-Tool-using-LSTM">
+<a href="https://github.com/Akashmishra1421/LSTM-Music-Generator">
 <img width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akashmishra1421&repo=Automatic-Music-Genration-Tool-using-LSTM&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
