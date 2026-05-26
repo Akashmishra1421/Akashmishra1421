@@ -86,8 +86,8 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Akashmishra1421&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashmishra1421&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akashmishra1421&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akashmishra1421&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -99,24 +99,50 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akashmishra1421&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
 ---
+
 
 ### 🚀 Things I've Built
 
 <div align="center">
 
-[![SummarizePro](https://github-readme-stats.vercel.app/api/pin/?username=Akashmishra1421&repo=SummarizePro&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Akashmishra1421/SummarizePro)
-[![Job Market Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Akashmishra1421&repo=Job-Market-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Akashmishra1421/Job-Market-Analysis)
-[![LSTM Music Generator](https://github-readme-stats.vercel.app/api/pin/?username=Akashmishra1421&repo=Automatic-Music-Genration-Tool-using-LSTM&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Akashmishra1421/Automatic-Music-Genration-Tool-using-LSTM)
-[![MERN Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Akashmishra1421&repo=MERN-Chat-App&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Akashmishra1421/MERN-Chat-App)
+<a href="https://github.com/Akashmishra1421/SummarizePro">
+<img width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akashmishra1421&repo=SummarizePro&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Akashmishra1421/MERN-Chat-App">
+<img width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akashmishra1421&repo=MERN-Chat-App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<br>
+
+<a href="https://github.com/Akashmishra1421/Automatic-Music-Genration-Tool-using-LSTM">
+<img width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akashmishra1421&repo=Automatic-Music-Genration-Tool-using-LSTM&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Akashmishra1421/Job-Market-Analysis">
+<img width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akashmishra1421&repo=Job-Market-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<br>
+
+<a href="https://github.com/Akashmishra1421/SEDMS">
+<img width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akashmishra1421&repo=SEDMS&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Akashmishra1421/Akash-Mishra-Portfolio">
+<img width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akashmishra1421&repo=Akash-Mishra-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
 
 </div>
 
+
 ---
+
 
 ### 📈 Contribution Graph
 
